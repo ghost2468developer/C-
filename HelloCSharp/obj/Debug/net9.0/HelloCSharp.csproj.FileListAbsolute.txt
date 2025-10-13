@@ -1,0 +1,14 @@
+C:\Users\Ghost DEV\Documents\GitHub\C-\HelloCSharp\bin\Debug\net9.0\HelloCSharp.exe
+C:\Users\Ghost DEV\Documents\GitHub\C-\HelloCSharp\bin\Debug\net9.0\HelloCSharp.deps.json
+C:\Users\Ghost DEV\Documents\GitHub\C-\HelloCSharp\bin\Debug\net9.0\HelloCSharp.runtimeconfig.json
+C:\Users\Ghost DEV\Documents\GitHub\C-\HelloCSharp\bin\Debug\net9.0\HelloCSharp.dll
+C:\Users\Ghost DEV\Documents\GitHub\C-\HelloCSharp\bin\Debug\net9.0\HelloCSharp.pdb
+C:\Users\Ghost DEV\Documents\GitHub\C-\HelloCSharp\obj\Debug\net9.0\HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghost DEV\Documents\GitHub\C-\HelloCSharp\obj\Debug\net9.0\HelloCSharp.AssemblyInfoInputs.cache
+C:\Users\Ghost DEV\Documents\GitHub\C-\HelloCSharp\obj\Debug\net9.0\HelloCSharp.AssemblyInfo.cs
+C:\Users\Ghost DEV\Documents\GitHub\C-\HelloCSharp\obj\Debug\net9.0\HelloCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Ghost DEV\Documents\GitHub\C-\HelloCSharp\obj\Debug\net9.0\HelloCSharp.dll
+C:\Users\Ghost DEV\Documents\GitHub\C-\HelloCSharp\obj\Debug\net9.0\refint\HelloCSharp.dll
+C:\Users\Ghost DEV\Documents\GitHub\C-\HelloCSharp\obj\Debug\net9.0\HelloCSharp.pdb
+C:\Users\Ghost DEV\Documents\GitHub\C-\HelloCSharp\obj\Debug\net9.0\HelloCSharp.genruntimeconfig.cache
+C:\Users\Ghost DEV\Documents\GitHub\C-\HelloCSharp\obj\Debug\net9.0\ref\HelloCSharp.dll
