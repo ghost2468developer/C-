@@ -12,3 +12,4 @@ C:\Users\Ghost DEV\Documents\GitHub\C-\HelloCSharp\obj\Debug\net9.0\refint\Hello
 C:\Users\Ghost DEV\Documents\GitHub\C-\HelloCSharp\obj\Debug\net9.0\HelloCSharp.pdb
 C:\Users\Ghost DEV\Documents\GitHub\C-\HelloCSharp\obj\Debug\net9.0\HelloCSharp.genruntimeconfig.cache
 C:\Users\Ghost DEV\Documents\GitHub\C-\HelloCSharp\obj\Debug\net9.0\ref\HelloCSharp.dll
+C:\Users\Ghost DEV\Documents\GitHub\C-\HelloCSharp\obj\Debug\net9.0\HelloCSharp.sourcelink.json
