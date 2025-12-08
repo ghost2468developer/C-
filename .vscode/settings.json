@@ -1,0 +1,18 @@
+{
+    "launch": {
+
+        "editor.autoClosingBrackets": "false",
+        "editor.suggestOnTriggerCharacters": false,
+    },
+    "github.copilot.chat.agent.currentEditorContext.enabled": false,
+    "github.copilot.chat.anthropic.tools.websearch.userLocation": {
+
+
+    },
+    "github.copilot.chat.azureModels": {
+
+    },
+    "github.copilot.enable": {
+        "*": false
+    }
+}
