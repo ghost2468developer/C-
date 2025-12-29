@@ -1,0 +1,15 @@
+C:\Users\siyab\OneDrive\Documents\C-\GradeManager\bin\Debug\net10.0\GradeManager.exe
+C:\Users\siyab\OneDrive\Documents\C-\GradeManager\bin\Debug\net10.0\GradeManager.deps.json
+C:\Users\siyab\OneDrive\Documents\C-\GradeManager\bin\Debug\net10.0\GradeManager.runtimeconfig.json
+C:\Users\siyab\OneDrive\Documents\C-\GradeManager\bin\Debug\net10.0\GradeManager.dll
+C:\Users\siyab\OneDrive\Documents\C-\GradeManager\bin\Debug\net10.0\GradeManager.pdb
+C:\Users\siyab\OneDrive\Documents\C-\GradeManager\obj\Debug\net10.0\GradeManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siyab\OneDrive\Documents\C-\GradeManager\obj\Debug\net10.0\GradeManager.AssemblyInfoInputs.cache
+C:\Users\siyab\OneDrive\Documents\C-\GradeManager\obj\Debug\net10.0\GradeManager.AssemblyInfo.cs
+C:\Users\siyab\OneDrive\Documents\C-\GradeManager\obj\Debug\net10.0\GradeManager.csproj.CoreCompileInputs.cache
+C:\Users\siyab\OneDrive\Documents\C-\GradeManager\obj\Debug\net10.0\GradeManager.sourcelink.json
+C:\Users\siyab\OneDrive\Documents\C-\GradeManager\obj\Debug\net10.0\GradeManager.dll
+C:\Users\siyab\OneDrive\Documents\C-\GradeManager\obj\Debug\net10.0\refint\GradeManager.dll
+C:\Users\siyab\OneDrive\Documents\C-\GradeManager\obj\Debug\net10.0\GradeManager.pdb
+C:\Users\siyab\OneDrive\Documents\C-\GradeManager\obj\Debug\net10.0\GradeManager.genruntimeconfig.cache
+C:\Users\siyab\OneDrive\Documents\C-\GradeManager\obj\Debug\net10.0\ref\GradeManager.dll
